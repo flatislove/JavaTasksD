@@ -1,0 +1,13 @@
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/view/Show.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/service/FlightsFileReaderService.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/service/impl/FlightsFileReaderServiceImpl.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/model/Flight.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/model/Carrier.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/controller/FlightController.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/service/ParseService.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/model/dto/TicketDTO.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/service/OperationService.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/model/dto/TicketsDTO.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/FlightMain.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/model/Airport.java
+/home/flvtisv/Documents/JavaProjectsCommunity/JavaTasksDiff/flights/src/main/java/org/flv/service/impl/OperationServiceImpl.java
